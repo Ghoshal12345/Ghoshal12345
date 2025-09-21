@@ -16,10 +16,9 @@ Email Me 👉 ✉️ **ghoshalindia@gmail.com** For Collaboration/Project or Any
 
 
 <!-- Snake Game Repo View -->
+<!-- GitHub Contributions Graph as snake -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghoshal12345&theme=react-dark)](https://github.com/Ghoshal12345/github-readme-activity-graph)
 
-<!-- <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div> -->
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=40) 
