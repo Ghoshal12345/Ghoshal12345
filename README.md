@@ -17,7 +17,6 @@ Email Me 👉 ✉️ **ghoshalindia@gmail.com** For Collaboration/Project or Any
 
 <!-- Snake Game Repo View -->
 <!-- GitHub Contributions Graph as snake -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghoshal12345&theme=react-dark)](https://github.com/Ghoshal12345/github-readme-activity-graph)
 
 
 # 💻 Tech Stack:
@@ -39,6 +38,9 @@ Email Me 👉 ✉️ **ghoshalindia@gmail.com** For Collaboration/Project or Any
 ![](https://github-readme-stats.vercel.app/api?username=Ghoshal12345&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ghoshal12345&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghoshal12345&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghoshal12345&theme=react-dark)](https://github.com/Ghoshal12345/github-readme-activity-graph)
 
 ### ✍️ Personal Tagline
 ![](https://quotes-github-readme.vercel.app/api?quote=Coding,%20debugging,%20improving%20—%20the%20journey%20never%20stops.&theme=dark&type=horizontal)
