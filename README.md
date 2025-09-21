@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **ghoshalindia@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** 
+- 🔭 **I’m currently working on:** social media project
 - 🌱 **I’m currently learning:** Node js
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** ghoshalindia@gmail.com
