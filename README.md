@@ -100,17 +100,6 @@ I'm a Computer Science undergraduate at **KIET Group of Institutions (2023–202
 - Solved **500+ DSA problems** across LeetCode and CodeStudio.
 - Achieved **5-Star in C++ on HackerRank**.
 
----
-
-## 📊 GitHub Statistics
-
-## ![](https://github-readme-stats.vercel.app/api?username=Ghoshal12345&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-
-## ![](https://nirzak-streak-stats.vercel.app/?user=Ghoshal12345&theme=dark&hide_border=true)
-
-## ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghoshal12345&theme=dark&hide_border=true&layout=compact)
-
----
 
 ## 📈 Contribution Activity
 
